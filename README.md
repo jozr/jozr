@@ -2,8 +2,8 @@
 
 ## Quick Stats
 - 🎯 **Focus**: Backend, Fullstack
-- 🔧 **Main Tools**: Ruby, TypeScript, Golang, AWS
-- 🌱 **Learning**: Security, Functional Languages
+- 🔧 **Main Tools**: Ruby, TypeScript, Golang, Python, AWS, SQL, and more...
+- 🌱 **Exploring**: Security, Functional Languages
 
 ## How to reach me
 - 📫 [email](mailto:jozright@gmail.com)
