@@ -6,7 +6,7 @@
 - 🌱 **Exploring**: Security, Functional Languages
 
 ## How to reach me
-- 📫 [email](mailto:jozright@gmail.com)
+- 📫 [email](mailto:jozrwin@gmail.com)
 - 📘 [LinkedIn](https://www.linkedin.com/in/josiewinter/)
 
 ## Projects
