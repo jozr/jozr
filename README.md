@@ -2,8 +2,8 @@
 
 ## Quick Stats
 - 🎯 **Focus**: Backend, Fullstack
-- 🔧 **Main Tools**: Ruby, TypeScript, Golang, Python, AWS, SQL, and more...
-- 🌱 **Exploring**: Security
+- 🔧 **Main Tools**: Ruby, JavaScript/TypeScript, Python, Golang, AWS, SQL, ReactNative/JS and more...
+- 🌱 **Exploring**: Security, Embedded
 
 ## How to reach me
 - 📫 [email](mailto:jozrwin@gmail.com)
