@@ -1,16 +1,10 @@
-# Welcome to My GitHub Home! 🏡✨
+# Hi, I'm Josie! 👋
 
-## Quick Stats
-- 🎯 **Focus**: Backend, Fullstack
-- 🔧 **Main Tools**: Ruby, JavaScript/TypeScript, Python, Golang, AWS, SQL, ReactNative/JS and more...
-- 🌱 **Exploring**: Security, Embedded
+- 👩‍💻 Senior Software Engineer, Backend & Full-stack
+- 🎓 MS Computer Science 2026
+- 🔧 Ruby, JS/TS, Python, Go, AWS
+- 🌱 Exploring: Embedded
+- 🌟 *"If your Nerve, deny you— Go above your Nerve"*
 
-## How to reach me
-- 📫 [email](mailto:jozrwin@gmail.com)
-- 📘 [LinkedIn](https://www.linkedin.com/in/josiewinter/)
-
-## Projects
-
-Some of them are below. :)
-
-[#nuclearenergyiscleanenergy](https://www.generationatomic.org/why-nuclear/)
+## Let's Connect
+📫 [Email](mailto:jozrwin@gmail.com) • 📘 [LinkedIn](https://www.linkedin.com/feed/)
