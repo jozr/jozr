@@ -1,4 +1,4 @@
-# Hi, I'm Josie! 👋
+# Welcome to my GitHome 👋
 
 - 👩‍💻 Senior Software Engineer, Backend & Full-stack
 - 🎓 MS Computer Science 2026
