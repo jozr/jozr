@@ -7,4 +7,4 @@
 - 🌟 *"If your Nerve, deny you— Go above your Nerve"*
 
 ## Let's Connect
-📫 [Email](mailto:jozrwin@gmail.com) • 📘 [LinkedIn](https://www.linkedin.com/feed/)
+📫 [Email](mailto:jozrwin@gmail.com) • 📘 [LinkedIn](https://www.linkedin.com/in/josiewinter/)
