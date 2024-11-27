@@ -6,7 +6,7 @@
 - 🌱 Exploring: Embedded
 
 ### 📊 My Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jozr&show_icons=true&theme=radical)
 
 ## Let's Connect
 📫 [Email](mailto:jozrwin@gmail.com) • 📘 [LinkedIn](https://www.linkedin.com/in/josiewinter/)
