@@ -1,7 +1,7 @@
 # Welcome to my GitHome 👋
 
 - 👩‍💻 Senior Software Engineer, Backend & Full-stack
-- 🎓 MS Computer Science 2026
+- 🎓 MSEE 2026
 - 🔧 Ruby, JS/TS, Python, Go, AWS
 - 🌱 Exploring: Embedded
 
